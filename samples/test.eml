@@ -1,0 +1,11 @@
+From: Microsoft Security <security@example.com>
+To: user@example.com
+Subject: Urgent: Verify Your Account
+Date: Mon, 21 Sep 2026 10:00:00 +0000
+Reply-To: verify@example.net
+Return-Path: <mailer@example.net>
+Message-ID: <123456@example.net>
+Verify here: https://example.com/login
+
+Your account requires immediate verification.
+Please verify your account immediately.

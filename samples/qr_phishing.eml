@@ -1,0 +1,37 @@
+From: Microsoft Security <security@example.com>
+To: user@example.com
+Subject: Urgent: Verify Your Account
+Date: Mon, 21 Sep 2026 03:36:12 -0000
+Reply-To: security-verification@example.net
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0444338175913913231=="
+
+--===============0444338175913913231==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Microsoft account requires immediate verification.
+
+Please scan the QR code below to verify your account.
+
+Failure to verify your account may result in suspension.
+
+--===============0444338175913913231==
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="account_verification.png"
+MIME-Version: 1.0
+
+iVBORw0KGgoAAAANSUhEUgAAAUoAAAFKAQAAAABTUiuoAAACFUlEQVR4nO1bS26DUAwcmyd1CVIP
+kKO8XK1Hyg3gKLkBLCsFubINpO2iopWqWMGzCAHNwrLx+PMSEuzEwHuZQFI5nYV8XXaDk4p01m5w
+UqGgBQVE3UzAVABM6+NzOivU61JFMS4P6dzeQGc09lSC2boH/NzUaU2hOjaCgTS3POlKOFt3gI9B
+lTcqkL69PcqAH8A4OrV8uye0qodTucWzlZMKRysiveZWj5lQ1womIlvYOJ2FGLk1kF0aUL2+CNWL
+3Wp3+N8GcFLxy2jJdi+YZsJweifNt/RrrDcL3qPXTfCsJ9SG3tTRNdH6+/7htvLhqfCRykrWp9nK
+sDaGC4UP7yyO4QHycdg2GBajewffiuQuI5wSikufLTRExmZrEVMJo0VLLDz6oY3hUsa0ZN1jKamE
+CBIteDxcBNeNoeWbxi3rVrBowQvVon+fukP/lrkVawc/ao1qbcrSZFJhfOtmkl6FMZatB6aW5Tq9
+Cuq1gOoIIQ2Z7TGojh1JEFs5qVDcSxYGO41UeJ+Yzgp8duzwra6PXzlvBT47rtcCK1lr57GtdjmI
+rQemluU6dcCyeddqdS33vXx2GeGitWHobBHf3AhoNLnmgtqHsDWp/M0j3m/oiYl9y99lhMytVvVu
++qKEddS0unT/awAnFX8/O0bb6LwloHp5FQwn8ckL6Vc8/M2i/NcCHhwCTirSWbvBSUU6azee1Fkf
+GMwbe9pzCagAAAAASUVORK5CYII=
+
+--===============0444338175913913231==--
